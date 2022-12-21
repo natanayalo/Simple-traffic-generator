@@ -1,8 +1,0 @@
-#ipref configurations
-# use -u for udp or blank for tcp
-udp: 
-port: 5001
-server_duration: 10
-client_duration: 5
-interval: 1
-my_file: my_file.txt
